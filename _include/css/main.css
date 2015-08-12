@@ -13,6 +13,7 @@ Version: 1.0
 ================================================== */
 
 @import url(http://fonts.googleapis.com/css?family=Nunito:400,300);
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
 
 html, body {
 	height: 100%;
@@ -30,7 +31,7 @@ body{
 	color:#7F8289;
 	font-weight:300;
 	font-size:16px;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Noto Sans', sans-serif;
 	line-height:28px;
 }
 
@@ -115,7 +116,7 @@ hr {
 
 input, button, select, textarea {
 	font-weight: 300;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Noto Sans', sans-serif;
 	outline: 0;
 }
 
@@ -207,7 +208,7 @@ h6{
 	margin:0 0 20px 0;
 	color:#FFFFFF;
 	font-weight:300;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Noto Sans', sans-serif;
 	line-height:1.5em;
 }
 
@@ -505,9 +506,9 @@ header #logo {
 }
 
 header #logo a {
-	background: url(../img/logo.png) no-repeat;
+	background: url(../img/MMDesigns_white.png) no-repeat;
 	width: 96px;
-	height: 30px;
+	height: 41px;
 	text-indent: -9999px;
 	display: block;
 	opacity: 1;
